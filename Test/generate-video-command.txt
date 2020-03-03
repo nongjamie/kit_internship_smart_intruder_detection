@@ -1,0 +1,5 @@
+For generateing the video
+
+ffmpeg -r 10 -i animation/frame%03d.jpg -qscale 2 animation.mp4
+
+Try changing -r 10 (10 frames per second) to another number.

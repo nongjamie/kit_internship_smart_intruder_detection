@@ -1,0 +1,1 @@
+This folder will contain the videos which have taken from record-intruder.py

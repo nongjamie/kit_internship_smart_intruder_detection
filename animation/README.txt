@@ -1,0 +1,1 @@
+This folder will contain the pictures which prepare for generating the video.
